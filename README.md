@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nimads
-- 👀 I’m interested in DataScience & Ml Engineer
-- 🌱 I’m currently learning MLOPS
-- 💞️ I’m looking to collaborate on end-to-end ml project
+- 👀 I’m interested in Ml Engineer
+- 🌱 I’m currently learning Data Engineer
+- 💞️ I’m looking to collaborate on end-to-end de project
 - 📫 How to reach me yaari.nima@gmail.com
 
 <!---
